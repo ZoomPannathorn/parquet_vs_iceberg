@@ -1,0 +1,9 @@
+warehouse/
+parquet_output.parquet
+parquet_output_tmp.parquet
+
+hadoop/dist/
+hadoop/classes/
+hadoop/src/
+hadoop/winutils.jar
+hadoop/bin/*.tmp
